@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028582643463",
+    "project_id": "warung-kelompok-lapan",
+    "storage_bucket": "warung-kelompok-lapan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028582643463:android:5772d11d2d352a97dbd7a2",
+        "android_client_info": {
+          "package_name": "com.warung88"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028582643463-972catg558qpahnli08grntbtg68k9r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warung88",
+            "certificate_hash": "c97aba60eba68f1ce49a22a64fb642823291509c"
+          }
+        },
+        {
+          "client_id": "1028582643463-pkf2fja71bu8d3b7et5ogkig4vmdfiva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNO1nYw3Zfk9yMDzolMdsu-pQcS9L01w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028582643463-pkf2fja71bu8d3b7et5ogkig4vmdfiva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
